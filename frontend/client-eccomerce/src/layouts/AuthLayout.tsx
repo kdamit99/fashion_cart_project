@@ -6,7 +6,7 @@ const AuthLayout = () => {
       {/* Left Image Section */}
       <div className="hidden md:flex md:w-1/2 items-center justify-center bg-teal-100 rounded-4xl p-2">
         <img
-          src="/auth-banner.jpg"
+          src="/images/login-02.jpeg"
           alt="Auth Visual"
           className="max-w-full h-auto object-cover bg-teal-50 h-full w-full rounded-3xl"
         />
