@@ -7,17 +7,17 @@ const testimonials = [
   {
     quote: "Absolutely love the quality and fit. My go-to fashion site!",
     name: "Ayesha R.",
-    image: "/images/client1.jpg",
+    image: "/images/profile-01.jpeg",
   },
   {
     quote: "Quick delivery and top-notch customer service. Highly recommended.",
     name: "Rahul M.",
-    image: "/images/client2.jpg",
+    image: "/images/profile-02.jpeg",
   },
   {
     quote: "Great styles and prices. I’m always excited for new drops!",
     name: "Natasha S.",
-    image: "/images/client3.jpg",
+    image: "/images/profile-03.jpeg",
   },
 ];
 

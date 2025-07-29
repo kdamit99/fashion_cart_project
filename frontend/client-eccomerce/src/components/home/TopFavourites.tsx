@@ -5,22 +5,22 @@ import { motion } from "framer-motion";
 
 const products = [
   {
-    image: "/images/fav1.jpg",
+    image: "/images/favourite-01.jpeg",
     title: "Summer Linen Dress",
     highlight: "Trending • ₹1,499",
   },
   {
-    image: "/images/fav2.jpg",
+    image: "/images/favourite-02.jpeg",
     title: "Oversized Denim Jacket",
     highlight: "Bestseller • ₹2,299",
   },
   {
-    image: "/images/fav3.jpg",
+    image: "/images/favourite-03.jpeg",
     title: "Casual Sneakers",
     highlight: "Hot Pick • ₹1,899",
   },
   {
-    image: "/images/fav4.jpg",
+    image: "/images/favourite-04.jpeg",
     title: "Stylish Tote Bag",
     highlight: "Editor's Choice • ₹999",
   },

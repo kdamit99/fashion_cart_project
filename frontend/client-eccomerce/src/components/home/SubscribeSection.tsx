@@ -44,7 +44,7 @@ const SubscribeSection = () => {
         <div className="hidden md:block h-full">
           <div className="h-full w-full">
             <img
-              src="/images/newsletter-banner.jpg"
+              src="/images/fashion-banner.jpeg"
               alt="Fashion Banner"
               className="h-full w-full object-cover rounded-2xl shadow-lg"
             />

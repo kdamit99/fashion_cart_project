@@ -22,23 +22,23 @@ const HeroSection = () => {
         {/* Right Section - Images */}
         <div className="w-full md:w-1/2 h-[500px] grid grid-cols-2 gap-6">
           {/* Large Left Image */}
-          <div className="h-full">
+          <div className="h-[500px]">
             <img
-              src="/images/hero-left.jpg"
+              src="/images/hero-03.jpg"
               alt="Main Fashion"
               className="w-full h-full object-cover rounded-3xl bg-gray-200 shadow-md"
             />
           </div>
 
           {/* Two Stacked Images */}
-          <div className="flex flex-col gap-6 h-full">
+          <div className="flex flex-col gap-6 h-[500px]">
             <img
-              src="/images/hero-top.jpg"
+              src="/images/hero-02.jpg"
               alt="Top Fashion"
               className="w-full h-1/2 object-cover rounded-3xl bg-gray-200 shadow-sm"
             />
             <img
-              src="/images/hero-bottom.jpg"
+              src="/images/hero-01.jpg"
               alt="Bottom Fashion"
               className="w-full h-1/2 object-cover rounded-3xl bg-gray-200 shadow-sm"
             />
